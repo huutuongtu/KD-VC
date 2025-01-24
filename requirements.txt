@@ -1,0 +1,16 @@
+glob2
+tqdm
+huggingface_hub
+librosa
+numpy
+scipy
+tensorboard
+torch
+torchvision
+einops
+transformers
+matplotlib
+pytorch-revgrad
+jiwer
+pyctcdecode
+resemblyzer

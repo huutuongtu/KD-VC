@@ -1,0 +1,2 @@
+# python convert.py --hpfile ./checkpoint/vi_100_5_sr/config.json --ptfile ./checkpoint/vi_100_5_sr/G_266000.pth
+python convert.py --hpfile ./checkpoint/vi_200_10_sr/config.json --ptfile ./checkpoint/vi_200_10_sr/G_266000.pth
