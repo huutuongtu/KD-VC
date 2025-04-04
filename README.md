@@ -17,3 +17,14 @@ python3 convert.py --hpfile ./checkpoint/vi_200_10_sr/config.json --ptfile ./che
 ## References:
 * https://github.com/OlaWod/FreeVC
 * https://github.com/KrishnaDN/Attentive-Statistics-Pooling-for-Deep-Speaker-Embedding
+
+## Citation:
+```
+@INPROCEEDINGS{10889083,
+  author={Tu, Huu Tuong and Thanh Long, Luong and Huan, Vu and Phuong Thao, Nguyen Thi and Van Thang, Nguyen and Cuong, Nguyen Tien and Thi Thu Trang, Nguyen},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Voice Conversion for Low-Resource Languages via Knowledge Transfer and Domain-Adversarial Training}, 
+  year={2025},
+  pages={1-5},
+  doi={10.1109/ICASSP49660.2025.10889083}}
+```
